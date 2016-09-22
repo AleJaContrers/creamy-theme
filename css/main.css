@@ -1,0 +1,86 @@
+.cajauno{
+	background-color: #DA2C38;
+	margin-bottom: 0;
+}
+.navbar-brand{
+	font-family: 'Merriweather', serif;
+	color: #F4F0BB;
+}
+
+.navbar-right li a{
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	color: #F4F0BB;
+}
+
+
+
+/*cajados imagen*/
+.cajados{
+	background-image: url(../img/creamy.jpg);
+	background-size: 100%;
+	background-position: 20% center;
+	height: 500px;
+	text-align: center;
+	color: #F4F0BB;
+}
+.oscuro{
+	background-color: rgba(0, 0, 0, 0.5);
+	height: 500px;
+}
+.c2texto{
+	margin-top: 13%;
+
+}
+
+.cajados h1 , .cajatres h1, .cajacuatro h1, .cajacinco h1, footer{
+	font-family: 'Merriweather', serif;
+}
+.cajados p, .cajatres p, .cajacuatro p, .cajacinco p{
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*cajatres text imagen*/
+.cajatres{
+	background-color: #F4F0BB;
+	color: #DA2C38;
+}
+.caja3izq{
+	margin-top: 5%;
+	text-align: center;
+}
+.caja3der{
+	padding: 5% 5% 5% 5%;
+}
+.caja3der img{
+	width: 110%;
+}
+
+/*cajacuatro*/
+.cajacuatro{
+	background-color:#DA2C38;
+	color: #F4F0BB;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom:5%;
+}
+
+
+/*cajacinco*/
+.cajacinco{
+	background-color: #F4F0BB;
+	color: #DA2C38;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.glyphicon{
+	font-size: 600%;
+}
+
+/*cajaseis*/
+.cajaseis{
+	background-color: #DA2C38;
+	color:#F4F0BB;
+	padding:2%;
+}
